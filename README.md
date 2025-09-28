@@ -24,7 +24,7 @@ samples directly in your own applications.
 
 ### Guiding Narrative: From Tiny Seed to Production System
 
-We'll follow a realistic storyline: r**eplacing a manual receipt-analysis service for validating expenses.**
+We'll follow a realistic storyline: **replacing a manual receipt-analysis service for validating expenses.**
 
 * **Start Small:** Begin with a very small set of labeled data (retail receipts). Many businesses don't have good ground truth data sets. 
 * **Build Incrementally:** Develop a minimal viable system and establish initial evals. 
